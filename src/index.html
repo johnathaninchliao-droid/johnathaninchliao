@@ -1,0 +1,187 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#f5f7fb">
+    <title>AI 應用規劃師｜歷屆試題</title>
+    <link rel="stylesheet" href="./styles.css">
+    <script src="../data/extracted/questions.js" defer></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <main class="page">
+      <header class="hero">
+        <p class="eyebrow">STUDY LIBRARY</p>
+        <h1>AI 應用規劃師<br><span>歷屆試題</span></h1>
+        <p class="intro">從歷屆題庫開始練習，依關鍵字、年份與科目找到想複習的內容。</p>
+        <div class="summary" aria-label="試題資料概況">
+          <div class="summary-item">
+            <strong id="total-question-count">0</strong>
+            <span>道可練習題目</span>
+          </div>
+          <div class="summary-item">
+            <strong>4</strong>
+            <span>個考試梯次</span>
+          </div>
+          <div class="summary-item">
+            <strong>2</strong>
+            <span>個考試科目</span>
+          </div>
+        </div>
+      </header>
+
+      <section class="practice" aria-labelledby="practice-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">PRACTICE MODE</p>
+            <h2 id="practice-title">開始練習</h2>
+          </div>
+          <p class="result-count" id="question-count" aria-live="polite"></p>
+        </div>
+
+        <form class="filters practice-filters" id="practice-filters">
+          <label class="search-field">
+            <span class="sr-only">搜尋題目內容</span>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="question-search" name="search" type="search" placeholder="搜尋題目或選項關鍵字">
+          </label>
+          <label>
+            <span class="sr-only">練習年份</span>
+            <select id="practice-year" name="year">
+              <option value="">所有年份</option>
+              <option value="115">115 年</option>
+              <option value="114">114 年</option>
+            </select>
+          </label>
+          <label>
+            <span class="sr-only">練習科目</span>
+            <select id="practice-subject" name="subject">
+              <option value="">所有科目</option>
+              <option value="first">第一科｜人工智慧基礎概論</option>
+              <option value="second">第二科｜生成式 AI 應用與規劃</option>
+            </select>
+          </label>
+          <label class="scenario-filter">
+            <span class="sr-only">練習場景</span>
+            <select id="practice-scenario" name="scenario">
+              <option value="">所有場景</option>
+              <option value="unclassified">未分類（已檢視）</option>
+              <option value="unreviewed">尚未檢視</option>
+            </select>
+          </label>
+          <button class="primary-button" id="start-practice" type="submit">開始作答</button>
+        </form>
+
+        <p class="data-error" id="data-error" role="alert" hidden>題庫資料載入失敗，請重新執行題目匯入流程。</p>
+        <p class="empty-state" id="practice-empty" hidden>目前條件下沒有題目，請調整搜尋或篩選條件。</p>
+
+        <article class="quiz-card" id="quiz-card" aria-live="polite" hidden>
+          <div class="quiz-meta" id="quiz-meta"></div>
+          <p class="quiz-progress" id="quiz-progress"></p>
+          <h3 class="question-text" id="question-text"></h3>
+          <fieldset class="choices" id="choices">
+            <legend class="sr-only">選擇答案</legend>
+          </fieldset>
+          <div class="feedback" id="feedback" role="status" hidden>
+            <p id="feedback-text"></p>
+            <a id="source-link" target="_blank" rel="noopener"></a>
+          </div>
+          <div class="quiz-controls">
+            <button class="secondary-button" id="previous-question" type="button">上一題</button>
+            <button class="secondary-button" id="check-answer" type="button">查看答案</button>
+            <button class="primary-button" id="next-question" type="button">下一題</button>
+          </div>
+        </article>
+
+        <div class="quiz-summary" id="quiz-summary" hidden>
+          <h3>本回合完成</h3>
+          <p id="summary-text"></p>
+          <button class="primary-button" id="restart-practice" type="button">再練一次</button>
+        </div>
+
+        <section class="learning-stats" aria-labelledby="stats-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">LEARNING PROGRESS</p>
+              <h2 id="stats-title">學習統計</h2>
+            </div>
+            <p class="result-count">依每題最近一次核對結果計算</p>
+          </div>
+          <div class="stats-overview" id="stats-overview" aria-live="polite"></div>
+          <div class="stats-breakdowns">
+            <section class="stats-breakdown" aria-labelledby="year-stats-title">
+              <h3 id="year-stats-title">按年份</h3>
+              <div class="stats-list" id="year-stats"></div>
+            </section>
+            <section class="stats-breakdown" aria-labelledby="subject-stats-title">
+              <h3 id="subject-stats-title">按科目</h3>
+              <div class="stats-list" id="subject-stats"></div>
+            </section>
+            <section class="stats-breakdown" aria-labelledby="scenario-stats-title">
+              <h3 id="scenario-stats-title">按場景分類</h3>
+              <p class="stats-note">未分類題目不列入場景統計；一題可屬於多個場景。</p>
+              <div class="stats-list" id="scenario-stats"></div>
+            </section>
+          </div>
+        </section>
+
+        <section class="study-records" aria-labelledby="records-title">
+          <div class="section-heading">
+            <div>
+              <p class="eyebrow">YOUR PROGRESS</p>
+              <h2 id="records-title">錯題複習與筆記</h2>
+            </div>
+            <p class="result-count" id="record-summary" aria-live="polite"></p>
+          </div>
+          <p class="data-error" id="record-error" role="alert" hidden></p>
+          <div class="wrong-question-list" id="wrong-question-list"></div>
+          <p class="empty-state" id="wrong-empty">目前沒有待複習錯題或筆記；完成核對後可在此記下錯因。</p>
+        </section>
+      </section>
+
+      <section class="library" aria-labelledby="library-title">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">PAPER ARCHIVE</p>
+            <h2 id="library-title">試題資料庫</h2>
+          </div>
+          <p class="result-count" id="result-count" aria-live="polite"></p>
+        </div>
+
+        <form class="filters" id="filters">
+          <label class="search-field">
+            <span class="sr-only">搜尋試題</span>
+            <span class="search-icon" aria-hidden="true">⌕</span>
+            <input id="search" name="search" type="search" placeholder="搜尋年份、梯次或科目">
+          </label>
+          <label>
+            <span class="sr-only">考試年份</span>
+            <select id="year-filter" name="year">
+              <option value="">所有年份</option>
+              <option value="115">115 年</option>
+              <option value="114">114 年</option>
+            </select>
+          </label>
+          <label>
+            <span class="sr-only">考試科目</span>
+            <select id="subject-filter" name="subject">
+              <option value="">所有科目</option>
+              <option value="first">第一科｜人工智慧基礎概論</option>
+              <option value="second">第二科｜生成式 AI 應用與規劃</option>
+            </select>
+          </label>
+        </form>
+
+        <div class="paper-grid" id="paper-list" aria-live="polite"></div>
+        <p class="empty-state" id="empty-state" hidden>找不到符合條件的試題，請調整搜尋內容或篩選條件。</p>
+        <p class="notice">
+          題目與答案擷取自原始 PDF，作答後可回看來源頁碼；作答紀錄與錯因筆記保存在目前瀏覽器，只保留每題最近一次核對結果。
+          若發現文字或答案疑義，請以 <code>data/originals/</code> 中的原始檔為準。
+        </p>
+      </section>
+
+      <footer>備考專案 · 本機試題資料</footer>
+    </main>
+  </body>
+</html>
