@@ -9,3 +9,7 @@ python -m http.server 8000 --bind 127.0.0.1
 ```
 
 開啟 `http://127.0.0.1:8000/src/index.html`。
+
+## 公開試用
+
+https://johnathaninchliao-droid.github.io/johnathaninchliao/
