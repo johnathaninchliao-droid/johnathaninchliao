@@ -1,6 +1,10 @@
 import unittest
 
-from src.build_question_bank import apply_scenario_classification, parse_questions
+from src.build_question_bank import (
+    apply_explanation_index,
+    apply_scenario_classification,
+    parse_questions,
+)
 
 
 class ParseQuestionsTests(unittest.TestCase):
@@ -58,6 +62,42 @@ class ParseQuestionsTests(unittest.TestCase):
         questions = parse_questions(pages)
 
         self.assertEqual(questions[0]["answer"], "C")
+
+
+class ExplanationIndexTests(unittest.TestCase):
+    def test_applies_explanation_images_to_matching_question(self):
+        questions = [{"id": "paper#q1"}, {"id": "paper#q2"}]
+        index = {
+            "schema_version": 1,
+            "entries": [
+                {
+                    "question_id": "paper#q1",
+                    "images": ["data/originals/detail/01.png"],
+                }
+            ],
+        }
+
+        apply_explanation_index(questions, index)
+
+        self.assertEqual(
+            questions[0]["explanation_images"],
+            ["data/originals/detail/01.png"],
+        )
+        self.assertEqual(questions[1]["explanation_images"], [])
+
+    def test_rejects_explanation_for_unknown_question(self):
+        index = {
+            "schema_version": 1,
+            "entries": [
+                {
+                    "question_id": "missing#q1",
+                    "images": ["data/originals/detail/01.png"],
+                }
+            ],
+        }
+
+        with self.assertRaisesRegex(ValueError, "valid questions"):
+            apply_explanation_index([{"id": "paper#q1"}], index)
 
 
 class ScenarioClassificationTests(unittest.TestCase):

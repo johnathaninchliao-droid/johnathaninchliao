@@ -83,6 +83,7 @@ const choices = document.querySelector("#choices");
 const feedback = document.querySelector("#feedback");
 const feedbackText = document.querySelector("#feedback-text");
 const sourceLink = document.querySelector("#source-link");
+const explanationLinks = document.querySelector("#explanation-links");
 const previousButton = document.querySelector("#previous-question");
 const checkButton = document.querySelector("#check-answer");
 const nextButton = document.querySelector("#next-question");
@@ -573,6 +574,7 @@ function renderQuestion() {
     showAnswerFeedback(question);
   } else {
     sourceLink.hidden = true;
+    explanationLinks.replaceChildren();
   }
 
   previousButton.disabled = currentQuestionIndex === 0;
@@ -606,6 +608,21 @@ function showAnswerFeedback(question) {
     `#page=${question.source_page}`;
   sourceLink.textContent = `查看原始試題第 ${question.source_page} 頁`;
   sourceLink.hidden = false;
+  explanationLinks.replaceChildren();
+  for (const [index, imagePath] of (question.explanation_images || []).entries()) {
+    const link = document.createElement("a");
+    link.href = `../${imagePath
+      .split("/")
+      .map((part) => encodeURIComponent(part))
+      .join("/")}`;
+    link.target = "_blank";
+    link.rel = "noopener";
+    link.textContent =
+      (question.explanation_images.length === 1
+        ? "查看詳解圖"
+        : `查看詳解圖 ${index + 1}`);
+    explanationLinks.append(link);
+  }
 }
 
 function startPractice(event) {
@@ -637,6 +654,7 @@ function checkAnswer() {
     feedback.classList.remove("is-correct");
     feedbackText.textContent = "請先選擇一個答案。";
     sourceLink.hidden = true;
+    explanationLinks.replaceChildren();
     feedback.hidden = false;
     return;
   }

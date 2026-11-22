@@ -391,6 +391,13 @@ h2 {
   font-size: 0.88rem;
 }
 
+.explanation-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 16px;
+  margin-top: 4px;
+}
+
 .quiz-controls {
   display: flex;
   justify-content: space-between;

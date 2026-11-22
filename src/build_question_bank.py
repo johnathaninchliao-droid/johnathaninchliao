@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parent.parent
 EXTRACTED_DIR = ROOT / "data" / "extracted"
 OUTPUT_PATH = EXTRACTED_DIR / "questions.js"
 SCENARIO_CLASSIFICATION_PATH = EXTRACTED_DIR / "scenario_classification.json"
+EXPLANATION_INDEX_PATH = EXTRACTED_DIR / "explanations.json"
 QUESTION_START = re.compile(r"^\s*([A-DＡ-Ｄ])\s+(\d{1,3})\.\s*(.*)$")
 OPTION_START = re.compile(r"^\s*\(([A-D])\)\s*(.*)$")
 ANSWER_TRANSLATION = str.maketrans("ＡＢＣＤ", "ABCD")
@@ -201,10 +202,46 @@ def apply_scenario_classification(questions: list[dict], data: dict) -> list[dic
     return categories
 
 
+def apply_explanation_index(questions: list[dict], data: dict) -> None:
+    if not isinstance(data, dict) or data.get("schema_version") != 1:
+        raise ValueError("Invalid explanation index schema.")
+
+    entries = data.get("entries")
+    if not isinstance(entries, list):
+        raise ValueError("Explanation entries are required.")
+
+    question_ids = {question["id"] for question in questions}
+    explanations_by_question = {}
+    for entry in entries:
+        if not isinstance(entry, dict):
+            raise ValueError("Each explanation entry must be an object.")
+
+        question_id = entry.get("question_id")
+        images = entry.get("images")
+        if (
+            not isinstance(question_id, str)
+            or question_id not in question_ids
+            or not isinstance(images, list)
+            or not images
+            or any(not isinstance(image, str) or not image.strip() for image in images)
+        ):
+            raise ValueError("Explanation entries must reference valid questions and images.")
+
+        if question_id in explanations_by_question:
+            raise ValueError(f"Duplicate explanation entry for {question_id}.")
+        explanations_by_question[question_id] = images
+
+    for question in questions:
+        question["explanation_images"] = explanations_by_question.get(question["id"], [])
+
+
 def build_question_bank() -> dict:
     source_paths = sorted(
         path for path in EXTRACTED_DIR.glob("*.json")
-        if path != SCENARIO_CLASSIFICATION_PATH
+        if path not in {
+            SCENARIO_CLASSIFICATION_PATH,
+            EXPLANATION_INDEX_PATH,
+        }
     )
     if not source_paths:
         raise FileNotFoundError(
@@ -220,6 +257,11 @@ def build_question_bank() -> dict:
         SCENARIO_CLASSIFICATION_PATH.read_text(encoding="utf-8")
     )
     scenario_categories = apply_scenario_classification(questions, classification_data)
+
+    explanation_data = json.loads(
+        EXPLANATION_INDEX_PATH.read_text(encoding="utf-8")
+    )
+    apply_explanation_index(questions, explanation_data)
 
     return {
         "schema_version": 2,

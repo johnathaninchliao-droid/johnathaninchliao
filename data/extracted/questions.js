@@ -64,7 +64,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q2",
@@ -86,7 +87,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q3",
@@ -106,7 +108,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q4",
@@ -126,7 +129,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q5",
@@ -146,7 +150,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q6",
@@ -166,7 +171,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q7",
@@ -186,7 +192,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 2,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q8",
@@ -206,7 +213,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 2,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q9",
@@ -228,7 +236,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q10",
@@ -250,7 +259,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q11",
@@ -272,7 +282,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q12",
@@ -294,7 +305,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q13",
@@ -314,7 +326,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q14",
@@ -336,7 +349,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q15",
@@ -356,7 +370,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q16",
@@ -378,7 +393,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q17",
@@ -400,7 +416,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q18",
@@ -420,7 +437,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 4,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q19",
@@ -442,7 +460,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q20",
@@ -464,7 +483,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q21",
@@ -486,7 +506,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q22",
@@ -506,7 +527,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 5,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q23",
@@ -528,7 +550,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q24",
@@ -548,7 +571,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 5,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q25",
@@ -570,7 +594,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q26",
@@ -590,7 +615,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q27",
@@ -610,7 +636,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q28",
@@ -630,7 +657,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q29",
@@ -650,7 +678,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q30",
@@ -672,7 +701,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q31",
@@ -694,7 +724,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q32",
@@ -714,7 +745,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q33",
@@ -736,7 +768,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q34",
@@ -758,7 +791,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q35",
@@ -780,7 +814,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q36",
@@ -802,7 +837,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q37",
@@ -824,7 +860,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q38",
@@ -846,7 +883,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q39",
@@ -868,7 +906,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q40",
@@ -888,7 +927,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 10,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q41",
@@ -910,7 +950,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q42",
@@ -933,7 +974,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q43",
@@ -955,7 +997,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q44",
@@ -975,7 +1018,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q45",
@@ -997,7 +1041,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q46",
@@ -1019,7 +1064,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q47",
@@ -1039,7 +1085,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 12,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q48",
@@ -1059,7 +1106,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf",
       "source_page": 12,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q49",
@@ -1081,7 +1129,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第一科_人工智慧基礎概論(當次試題公告114_20251226000442.pdf#q50",
@@ -1103,7 +1152,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q1",
@@ -1125,7 +1175,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q2",
@@ -1147,7 +1198,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q3",
@@ -1169,7 +1221,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q4",
@@ -1191,7 +1244,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q5",
@@ -1211,7 +1265,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q6",
@@ -1235,7 +1290,8 @@ window.QUESTION_BANK = {
         "app_development",
         "content_generation",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q7",
@@ -1257,7 +1313,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q8",
@@ -1277,7 +1334,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 2,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q9",
@@ -1297,7 +1355,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q10",
@@ -1319,7 +1378,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q11",
@@ -1339,7 +1399,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q12",
@@ -1361,7 +1422,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q13",
@@ -1381,7 +1443,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q14",
@@ -1405,7 +1468,8 @@ window.QUESTION_BANK = {
         "conversational_service",
         "knowledge_qa",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q15",
@@ -1428,7 +1492,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q16",
@@ -1448,7 +1513,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 4,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q17",
@@ -1471,7 +1537,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q18",
@@ -1494,7 +1561,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q19",
@@ -1518,7 +1586,8 @@ window.QUESTION_BANK = {
         "multimodal",
         "conversational_service",
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q20",
@@ -1541,7 +1610,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q21",
@@ -1564,7 +1634,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q22",
@@ -1587,7 +1658,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q23",
@@ -1607,7 +1679,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q24",
@@ -1631,7 +1704,8 @@ window.QUESTION_BANK = {
         "knowledge_qa",
         "document_processing",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q25",
@@ -1653,7 +1727,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q26",
@@ -1675,7 +1750,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q27",
@@ -1698,7 +1774,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q28",
@@ -1721,7 +1798,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q29",
@@ -1743,7 +1821,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q30",
@@ -1767,7 +1846,8 @@ window.QUESTION_BANK = {
         "app_development",
         "conversational_service",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q31",
@@ -1791,7 +1871,8 @@ window.QUESTION_BANK = {
         "conversational_service",
         "governance_risk",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q32",
@@ -1814,7 +1895,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q33",
@@ -1836,7 +1918,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q34",
@@ -1859,7 +1942,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q35",
@@ -1881,7 +1965,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q36",
@@ -1905,7 +1990,8 @@ window.QUESTION_BANK = {
         "multimodal",
         "conversational_service",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q37",
@@ -1925,7 +2011,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 10,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q38",
@@ -1947,7 +2034,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q39",
@@ -1970,7 +2058,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q40",
@@ -1990,7 +2079,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q41",
@@ -2010,7 +2100,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q42",
@@ -2033,7 +2124,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q43",
@@ -2053,7 +2145,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q44",
@@ -2073,7 +2166,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 12,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q45",
@@ -2093,7 +2187,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 12,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q46",
@@ -2115,7 +2210,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q47",
@@ -2138,7 +2234,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q48",
@@ -2160,7 +2257,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q49",
@@ -2180,7 +2278,8 @@ window.QUESTION_BANK = {
       "source_file": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf",
       "source_page": 13,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "114年第4-4次初級AI應用規劃師_第二科_生成式AI應用與規劃(當次試題公告114_20251226000507.pdf#q50",
@@ -2202,7 +2301,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q1",
@@ -2222,7 +2322,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q2",
@@ -2245,7 +2346,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q3",
@@ -2265,7 +2367,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q4",
@@ -2287,7 +2390,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q5",
@@ -2309,7 +2413,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q6",
@@ -2331,7 +2436,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q7",
@@ -2353,7 +2459,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q8",
@@ -2376,7 +2483,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q9",
@@ -2398,7 +2506,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q10",
@@ -2421,7 +2530,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q11",
@@ -2443,7 +2553,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q12",
@@ -2463,7 +2574,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q13",
@@ -2485,7 +2597,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q14",
@@ -2507,7 +2620,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q15",
@@ -2527,7 +2641,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 4,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q16",
@@ -2547,7 +2662,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 4,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q17",
@@ -2569,7 +2685,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q18",
@@ -2589,7 +2706,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 4,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q19",
@@ -2612,7 +2730,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q20",
@@ -2634,7 +2753,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q21",
@@ -2657,7 +2777,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q22",
@@ -2679,7 +2800,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q23",
@@ -2699,7 +2821,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 5,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q24",
@@ -2722,7 +2845,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q25",
@@ -2744,7 +2868,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q26",
@@ -2764,7 +2889,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q27",
@@ -2784,7 +2910,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q28",
@@ -2806,7 +2933,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q29",
@@ -2826,7 +2954,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q30",
@@ -2848,7 +2977,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q31",
@@ -2871,7 +3001,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q32",
@@ -2893,7 +3024,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q33",
@@ -2915,7 +3047,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q34",
@@ -2938,7 +3071,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q35",
@@ -2960,7 +3094,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q36",
@@ -2983,7 +3118,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q37",
@@ -3007,7 +3143,8 @@ window.QUESTION_BANK = {
         "app_development",
         "multimodal",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q38",
@@ -3029,7 +3166,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q39",
@@ -3049,7 +3187,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 9,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q40",
@@ -3071,7 +3210,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q41",
@@ -3091,7 +3231,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 10,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q42",
@@ -3114,7 +3255,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q43",
@@ -3134,7 +3276,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 10,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q44",
@@ -3156,7 +3299,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q45",
@@ -3176,7 +3320,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q46",
@@ -3199,7 +3344,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q47",
@@ -3219,7 +3365,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q48",
@@ -3241,7 +3388,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q49",
@@ -3264,7 +3412,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "multimodal"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260410164304.pdf#q50",
@@ -3287,7 +3436,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q1",
@@ -3310,7 +3460,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "governance_risk",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q2",
@@ -3332,7 +3483,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q3",
@@ -3355,7 +3507,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q4",
@@ -3377,7 +3530,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q5",
@@ -3400,7 +3554,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q6",
@@ -3423,7 +3578,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q7",
@@ -3446,7 +3602,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q8",
@@ -3468,7 +3625,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q9",
@@ -3490,7 +3648,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q10",
@@ -3512,7 +3671,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q11",
@@ -3535,7 +3695,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q12",
@@ -3555,7 +3716,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q13",
@@ -3578,7 +3740,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q14",
@@ -3601,7 +3764,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q15",
@@ -3621,7 +3785,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf",
       "source_page": 4,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q16",
@@ -3644,7 +3809,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q17",
@@ -3666,7 +3832,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q18",
@@ -3688,7 +3855,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q19",
@@ -3711,7 +3879,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q20",
@@ -3734,7 +3903,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q21",
@@ -3756,7 +3926,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q22",
@@ -3779,7 +3950,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q23",
@@ -3802,7 +3974,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q24",
@@ -3824,7 +3997,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q25",
@@ -3846,7 +4020,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q26",
@@ -3869,7 +4044,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q27",
@@ -3893,7 +4069,8 @@ window.QUESTION_BANK = {
         "app_development",
         "multimodal",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q28",
@@ -3916,7 +4093,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q29",
@@ -3940,7 +4118,8 @@ window.QUESTION_BANK = {
         "app_development",
         "multimodal",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q30",
@@ -3962,7 +4141,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q31",
@@ -3986,7 +4166,8 @@ window.QUESTION_BANK = {
         "conversational_service",
         "knowledge_qa",
         "document_processing"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q32",
@@ -4006,7 +4187,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q33",
@@ -4030,7 +4212,8 @@ window.QUESTION_BANK = {
         "app_development",
         "document_processing",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q34",
@@ -4053,7 +4236,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q35",
@@ -4073,7 +4257,8 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf",
       "source_page": 8,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q36",
@@ -4096,7 +4281,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q37",
@@ -4120,7 +4306,8 @@ window.QUESTION_BANK = {
         "content_generation",
         "conversational_service",
         "knowledge_qa"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q38",
@@ -4142,7 +4329,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q39",
@@ -4165,7 +4353,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q40",
@@ -4188,7 +4377,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q41",
@@ -4210,7 +4400,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q42",
@@ -4232,7 +4423,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q43",
@@ -4255,7 +4447,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q44",
@@ -4278,7 +4471,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "conversational_service"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q45",
@@ -4301,7 +4495,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "data_analysis_prediction"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q46",
@@ -4324,7 +4519,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q47",
@@ -4347,7 +4543,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q48",
@@ -4370,7 +4567,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q49",
@@ -4393,7 +4591,8 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-1次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260410164328.pdf#q50",
@@ -4415,7 +4614,8 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
-      ]
+      ],
+      "explanation_images": []
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q1",
@@ -4437,6 +4637,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(01)115.4-2.第一科.png"
       ]
     },
     {
@@ -4460,6 +4663,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(02)115.4-2.第一科..png"
       ]
     },
     {
@@ -4483,6 +4689,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(03)115.4-2.第一科.png"
       ]
     },
     {
@@ -4506,6 +4715,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(04)115.4-2.第一科.png"
       ]
     },
     {
@@ -4528,6 +4740,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(05)115.4-2.第一科.png"
       ]
     },
     {
@@ -4550,6 +4765,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(06)115.4-2.第一科答案不同.png"
       ]
     },
     {
@@ -4573,6 +4791,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(07)115.4-2.第一科.png"
       ]
     },
     {
@@ -4596,6 +4817,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(08)115.4-2.第一科..png"
       ]
     },
     {
@@ -4620,6 +4844,9 @@ window.QUESTION_BANK = {
         "multimodal",
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(09)115.4-2.第一科.png"
       ]
     },
     {
@@ -4642,6 +4869,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(10)115.4-2.第一科.png"
       ]
     },
     {
@@ -4664,6 +4894,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(11)115.4-2.第一科..png"
       ]
     },
     {
@@ -4687,6 +4920,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(12)115.4-2.第一科.png"
       ]
     },
     {
@@ -4709,6 +4945,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(13)115.4-2.第一科.png"
       ]
     },
     {
@@ -4731,6 +4970,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(14)115.4-2.第一科..png"
       ]
     },
     {
@@ -4753,6 +4995,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(15)115.4-2.第一科.png"
       ]
     },
     {
@@ -4775,6 +5020,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(16)115.4-2.第一科.png"
       ]
     },
     {
@@ -4797,6 +5045,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(17)115.4-2.第一科.png"
       ]
     },
     {
@@ -4819,6 +5070,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(18)115.4-2.第一科.png"
       ]
     },
     {
@@ -4842,6 +5096,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(19)115.4-2.第一科.png"
       ]
     },
     {
@@ -4864,6 +5121,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(20)115.4-2.第一科.png"
       ]
     },
     {
@@ -4884,7 +5144,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(21)115.4-2.第一科..png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q22",
@@ -4906,6 +5169,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(22)115.4-2.第一科..png"
       ]
     },
     {
@@ -4928,6 +5194,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(23)115.4-2.第一科.png"
       ]
     },
     {
@@ -4950,6 +5219,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(24)115.4-2.第一科..png"
       ]
     },
     {
@@ -4972,6 +5244,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(25)115.4-2.第一科..png"
       ]
     },
     {
@@ -4994,6 +5269,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(26)115.4-2.第一科.png"
       ]
     },
     {
@@ -5016,6 +5294,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(27)115.4-2第一科.png"
       ]
     },
     {
@@ -5038,6 +5319,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(28)115.4-2.第一科.png"
       ]
     },
     {
@@ -5058,7 +5342,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 8,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(29)115.4-2.第一科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q30",
@@ -5081,6 +5368,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(30)115.4-2.第一科.png"
       ]
     },
     {
@@ -5103,6 +5393,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(31)115.4-2.第一科.png"
       ]
     },
     {
@@ -5125,6 +5418,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(32)115.4-2.第一科.png"
       ]
     },
     {
@@ -5148,6 +5444,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(33)115.4-2.第一科.png"
       ]
     },
     {
@@ -5168,7 +5467,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 9,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(34)115.4-2.第一科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q35",
@@ -5191,6 +5493,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(35)115.4-2.第一科.png"
       ]
     },
     {
@@ -5211,7 +5516,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 9,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(36)115.4-2.第一科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q37",
@@ -5234,6 +5542,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(37)115.4-2.第一科.png"
       ]
     },
     {
@@ -5256,6 +5567,10 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(38)115.4-2.第一科.png",
+        "data/originals/詳解/115.4-2.第一科/(38)115.4-2.第一科補充.png"
       ]
     },
     {
@@ -5276,7 +5591,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 10,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(39)115.4-2.第一科. .png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q40",
@@ -5299,6 +5617,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(40)115.4-2.第一科.png"
       ]
     },
     {
@@ -5322,6 +5643,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(41)115.4-2.第一科.png"
       ]
     },
     {
@@ -5342,7 +5666,11 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 11,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(42)115.4-2.第一科.png",
+        "data/originals/詳解/115.4-2.第一科/(42)115.4-2.第一科補充.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q43",
@@ -5364,6 +5692,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(43)115.4-2.第一科.png"
       ]
     },
     {
@@ -5388,6 +5719,9 @@ window.QUESTION_BANK = {
         "app_development",
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(44)115.4-2.第一科.png"
       ]
     },
     {
@@ -5412,6 +5746,9 @@ window.QUESTION_BANK = {
         "multimodal",
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(45)115.4-2.第一科.png"
       ]
     },
     {
@@ -5432,7 +5769,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 12,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(46)115.4-2.第一科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q47",
@@ -5452,7 +5792,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf",
       "source_page": 12,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(47)115.4-2.第一科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260604212644.pdf#q48",
@@ -5475,6 +5818,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(48)115.4-2.第一科.png"
       ]
     },
     {
@@ -5498,6 +5844,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(49)115.4-2.第一科.png"
       ]
     },
     {
@@ -5520,6 +5869,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "knowledge_qa"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第一科/(50)115.4-2.第一科.png"
       ]
     },
     {
@@ -5542,6 +5894,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(01)115.4-2.第二科.png"
       ]
     },
     {
@@ -5565,6 +5920,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(02)115.4-2.第二科.png"
       ]
     },
     {
@@ -5587,6 +5945,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(03)115.4-2.第二科.png"
       ]
     },
     {
@@ -5607,7 +5968,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf",
       "source_page": 1,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(04)115.4-2.第二科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf#q5",
@@ -5630,6 +5994,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(05)115.4-2.第二科.png"
       ]
     },
     {
@@ -5653,6 +6020,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(06)115.4-2.第二科.png"
       ]
     },
     {
@@ -5676,6 +6046,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(07)115.4-2.第二科.png"
       ]
     },
     {
@@ -5698,6 +6071,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(08)115.4-2.第二科.png"
       ]
     },
     {
@@ -5722,6 +6098,9 @@ window.QUESTION_BANK = {
         "app_development",
         "multimodal",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(09)115.4-2.第二科.png"
       ]
     },
     {
@@ -5745,6 +6124,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(10)115.4-2.第二科.png"
       ]
     },
     {
@@ -5768,6 +6150,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(11)115.4-2.第二科.png"
       ]
     },
     {
@@ -5790,6 +6175,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(12)115.4-2.第二科..png"
       ]
     },
     {
@@ -5812,6 +6200,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(13)115.4-2.第二科..png"
       ]
     },
     {
@@ -5834,6 +6225,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(14)115.4-2.第二科.png"
       ]
     },
     {
@@ -5857,6 +6251,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(15)115.4-2.第二科.png"
       ]
     },
     {
@@ -5877,7 +6274,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf",
       "source_page": 5,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(16)115.4-2.第二科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf#q17",
@@ -5900,6 +6300,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(17)115.4-2.第二科.png"
       ]
     },
     {
@@ -5923,6 +6326,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(18)115.4-2.第二科.png"
       ]
     },
     {
@@ -5946,6 +6352,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "knowledge_qa"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(19)115.4-2.第二科.png"
       ]
     },
     {
@@ -5969,6 +6378,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "knowledge_qa"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(20)115.4-2.第二科.mcp與rag.png"
       ]
     },
     {
@@ -5992,6 +6404,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(21)115.4-2.第二科.png"
       ]
     },
     {
@@ -6015,6 +6430,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(22)115.4-2.第二科.png"
       ]
     },
     {
@@ -6038,6 +6456,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(23)115.4-2.第二科.png"
       ]
     },
     {
@@ -6058,7 +6479,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(24)115.4-2.第二科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf#q25",
@@ -6078,7 +6502,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(25)115.4-2.第二科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf#q26",
@@ -6098,7 +6525,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(26)115.4-2.第二科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf#q27",
@@ -6121,6 +6551,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(27)115.4-2.第二科.png"
       ]
     },
     {
@@ -6144,6 +6577,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(28)115.4-2.第二科.png"
       ]
     },
     {
@@ -6167,6 +6603,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(29)115.4-2.第二科.png"
       ]
     },
     {
@@ -6190,6 +6629,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(30)115.4-2第二科.png"
       ]
     },
     {
@@ -6214,6 +6656,9 @@ window.QUESTION_BANK = {
         "content_generation",
         "multimodal",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(31)115.4-2.第二科.png"
       ]
     },
     {
@@ -6236,6 +6681,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(32)115.4-2.第二科.png"
       ]
     },
     {
@@ -6258,6 +6706,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(33)115.4-2.第二科.png"
       ]
     },
     {
@@ -6280,6 +6731,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(34)115.4-2.第二科.png"
       ]
     },
     {
@@ -6303,6 +6757,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(35)115.4-2.第二科.png"
       ]
     },
     {
@@ -6326,6 +6783,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(36)115.4-2.第二科.png"
       ]
     },
     {
@@ -6350,6 +6810,9 @@ window.QUESTION_BANK = {
         "multimodal",
         "conversational_service",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(37)115.4-2.第二科.png"
       ]
     },
     {
@@ -6372,6 +6835,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(38)115.4-2.第二科.png"
       ]
     },
     {
@@ -6392,7 +6858,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf",
       "source_page": 10,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(39)115.4-2.第二科.png"
+      ]
     },
     {
       "id": "115年第4-2次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260604212719.pdf#q40",
@@ -6415,6 +6884,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(40)115.4-2.第二科.png"
       ]
     },
     {
@@ -6438,6 +6910,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(41)115.4-2.第二科.png"
       ]
     },
     {
@@ -6461,6 +6936,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(42)115.4-2.第二科.png"
       ]
     },
     {
@@ -6484,6 +6962,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(43)115.4-2.第一科.png"
       ]
     },
     {
@@ -6507,6 +6988,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(44)115.4-2.第一科.png"
       ]
     },
     {
@@ -6530,6 +7014,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(45)115.4-2.第二科.png"
       ]
     },
     {
@@ -6552,6 +7039,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(46)115.4-2.第二科.png"
       ]
     },
     {
@@ -6575,6 +7065,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(47)115.4-2.第二科.png"
       ]
     },
     {
@@ -6598,6 +7091,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(48)115.4-2.第二科.png"
       ]
     },
     {
@@ -6621,6 +7117,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(49)115.4-2.第二科.png"
       ]
     },
     {
@@ -6643,6 +7142,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-2.第二科/(50)115.4-2.第二科.png"
       ]
     },
     {
@@ -6665,6 +7167,10 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(01)115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(01)115.4-3.第一科.補充.png"
       ]
     },
     {
@@ -6688,6 +7194,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(02)115.4-3第一科.png"
       ]
     },
     {
@@ -6711,6 +7220,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(03)115.4-3.第一科.png"
       ]
     },
     {
@@ -6733,6 +7245,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(04)115.4-3.第一科.png"
       ]
     },
     {
@@ -6753,7 +7268,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-3次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260906220418.pdf",
       "source_page": 2,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(05)115.4-3.第一科.png"
+      ]
     },
     {
       "id": "115年第4-3次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260906220418.pdf#q6",
@@ -6776,6 +7294,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(06)115.4-3.第一科.png"
       ]
     },
     {
@@ -6798,6 +7319,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(07)115.4-3.第一科.png"
       ]
     },
     {
@@ -6821,6 +7345,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(08)115.4-3.第一科..png"
       ]
     },
     {
@@ -6844,6 +7371,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(09)115.4-3.第一科..png"
       ]
     },
     {
@@ -6866,6 +7396,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(10)115.4-3.第一科.png"
       ]
     },
     {
@@ -6886,7 +7419,11 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-3次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260906220418.pdf",
       "source_page": 3,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(11)115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(11)115.4-3.第一科.補充.png"
+      ]
     },
     {
       "id": "115年第4-3次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260906220418.pdf#q12",
@@ -6908,6 +7445,10 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(12)115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(12)115.4-3.第一科.補充.png"
       ]
     },
     {
@@ -6930,6 +7471,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(13)115.4-3.第一科.png"
       ]
     },
     {
@@ -6952,6 +7496,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(14)115.4-3.第一科.png"
       ]
     },
     {
@@ -6974,6 +7521,10 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(15).115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(15)115.4-3.第一科.png"
       ]
     },
     {
@@ -6997,6 +7548,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(16)115.4-3.第一科.png"
       ]
     },
     {
@@ -7019,6 +7573,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(17)115.4-3.第一科傅立葉.png"
       ]
     },
     {
@@ -7041,6 +7598,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(18)115.4-3.第一科.png"
       ]
     },
     {
@@ -7064,6 +7624,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(19)115.4-3.第一科.png"
       ]
     },
     {
@@ -7087,6 +7650,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(20)115.4-3.第一科.png"
       ]
     },
     {
@@ -7110,6 +7676,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(21)115.4-3.第一科.png"
       ]
     },
     {
@@ -7133,6 +7702,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(22)115.4-3.第一科.png"
       ]
     },
     {
@@ -7155,6 +7727,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(23)115.4-3.第一科.png"
       ]
     },
     {
@@ -7178,6 +7753,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(24)115.4-3.第一科.png"
       ]
     },
     {
@@ -7198,7 +7776,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-3次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260906220418.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(25)115.4-3.第一科 .png"
+      ]
     },
     {
       "id": "115年第4-3次初級AI應用規劃師_第一科_人工智慧基礎概論_公告試題_20260906220418.pdf#q26",
@@ -7220,6 +7801,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(26)115.4-3.第一科.png"
       ]
     },
     {
@@ -7242,6 +7826,10 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(27)115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(27)115.4-3.第一科.有趣補充.png"
       ]
     },
     {
@@ -7264,6 +7852,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(28)115.4-3.第一科.png"
       ]
     },
     {
@@ -7286,6 +7877,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(29)115.4-3.第一科.png"
       ]
     },
     {
@@ -7309,6 +7903,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(30)115.4-3.第一科.png"
       ]
     },
     {
@@ -7331,6 +7928,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(31)115.4-3.第一科.png"
       ]
     },
     {
@@ -7354,6 +7954,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(32)115.4-3.第一科.png"
       ]
     },
     {
@@ -7376,6 +7979,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(33)115.4-3.第一科.png"
       ]
     },
     {
@@ -7402,6 +8008,9 @@ window.QUESTION_BANK = {
         "document_processing",
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(34)115.4-3.第一科.png"
       ]
     },
     {
@@ -7425,6 +8034,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(35)115.4-3.第一科.png"
       ]
     },
     {
@@ -7447,6 +8059,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(36)115.4-3.第一科.png"
       ]
     },
     {
@@ -7470,6 +8085,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(37)115.4-3.第一科.png"
       ]
     },
     {
@@ -7492,6 +8110,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(38)115.4-3.第一科.png"
       ]
     },
     {
@@ -7515,6 +8136,10 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(39)115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(39)115.4-3.第一科試用模型.png"
       ]
     },
     {
@@ -7538,6 +8163,10 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(40)115.4-3.第一科.png",
+        "data/originals/詳解/115.4-3.第一科/(40)115.4-3.第一科試用模型.png"
       ]
     },
     {
@@ -7561,6 +8190,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(41)115.4-3.第一科.png"
       ]
     },
     {
@@ -7583,6 +8215,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(42)115.4-3.第一科.png"
       ]
     },
     {
@@ -7605,6 +8240,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(43)115.4-3.第一科.png"
       ]
     },
     {
@@ -7628,6 +8266,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "multimodal"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(44)115.4-3.第一科.png"
       ]
     },
     {
@@ -7650,6 +8291,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(45)115.4-3.第一科.png"
       ]
     },
     {
@@ -7673,6 +8317,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(46)115.4-3.第一科.png"
       ]
     },
     {
@@ -7696,6 +8343,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(47)115.4-3.第一科.png"
       ]
     },
     {
@@ -7719,6 +8369,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(48)115.4-3.第一科.png"
       ]
     },
     {
@@ -7744,6 +8397,9 @@ window.QUESTION_BANK = {
         "multimodal",
         "document_processing",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(49)115.4-3.第一科.png"
       ]
     },
     {
@@ -7768,6 +8424,9 @@ window.QUESTION_BANK = {
         "conversational_service",
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第一科/(50)115.4-3.第一科.png"
       ]
     },
     {
@@ -7790,6 +8449,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(01)115.4-3.第二科.png"
       ]
     },
     {
@@ -7814,6 +8476,9 @@ window.QUESTION_BANK = {
         "app_development",
         "document_processing",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(02)115.4-3.第二科.png"
       ]
     },
     {
@@ -7837,6 +8502,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(03)115.4-3.第二科.png"
       ]
     },
     {
@@ -7860,6 +8528,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(04)115.4-3.第二科.png"
       ]
     },
     {
@@ -7883,6 +8554,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(05)115.4-3.第二科.png"
       ]
     },
     {
@@ -7906,6 +8580,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(06)115.4-3.第二科.png"
       ]
     },
     {
@@ -7928,6 +8605,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(07)115.4-3.第二科.png"
       ]
     },
     {
@@ -7951,6 +8631,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(08)115.4-3.第二科.png"
       ]
     },
     {
@@ -7974,6 +8657,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(09)115.4-3.第二科.png"
       ]
     },
     {
@@ -7997,6 +8683,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(10)115.4-3.第二科.png"
       ]
     },
     {
@@ -8020,6 +8709,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(11)115.4-3.第二科..png"
       ]
     },
     {
@@ -8042,6 +8734,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(12)115.4-3.第二科.png"
       ]
     },
     {
@@ -8066,6 +8761,9 @@ window.QUESTION_BANK = {
         "multimodal",
         "knowledge_qa",
         "recommendation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(13)115.4-3.第二科.png"
       ]
     },
     {
@@ -8089,6 +8787,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(14)115.4-3.第二科.png"
       ]
     },
     {
@@ -8111,6 +8812,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "content_generation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(15)115.4-3第二科.png"
       ]
     },
     {
@@ -8134,6 +8838,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(16)115.4-3.第二科..png"
       ]
     },
     {
@@ -8154,7 +8861,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-3次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260906220452.pdf",
       "source_page": 6,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(17)115.4-3.第二科.png"
+      ]
     },
     {
       "id": "115年第4-3次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260906220452.pdf#q18",
@@ -8177,6 +8887,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(18)115.4-3.第二科.png"
       ]
     },
     {
@@ -8199,6 +8912,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(19)115.4-3.第二科.png"
       ]
     },
     {
@@ -8219,7 +8935,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-3次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260906220452.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(20)115.4-3.第二科比對答案.png"
+      ]
     },
     {
       "id": "115年第4-3次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260906220452.pdf#q21",
@@ -8242,6 +8961,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(21)115.4-3.第二科.png"
       ]
     },
     {
@@ -8265,6 +8987,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "knowledge_qa"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(22)115.4-3.第二科.png"
       ]
     },
     {
@@ -8285,7 +9010,10 @@ window.QUESTION_BANK = {
       "source_file": "115年第4-3次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260906220452.pdf",
       "source_page": 7,
       "scenario_reviewed": true,
-      "scenario_tags": []
+      "scenario_tags": [],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(23)115.4-3.第二科.png"
+      ]
     },
     {
       "id": "115年第4-3次初級AI應用規劃師_第二科_生成式AI應用與規劃_公告試題_20260906220452.pdf#q24",
@@ -8308,6 +9036,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(24)115.4-3.第二科.png"
       ]
     },
     {
@@ -8330,6 +9061,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(25)115.4-3.第二科.png"
       ]
     },
     {
@@ -8354,6 +9088,9 @@ window.QUESTION_BANK = {
         "app_development",
         "document_processing",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(26)115.4-3.第二科.png"
       ]
     },
     {
@@ -8379,6 +9116,9 @@ window.QUESTION_BANK = {
         "multimodal",
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(27)115.4-3.第二科.png"
       ]
     },
     {
@@ -8401,6 +9141,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(28)115.4-3.第二科.png"
       ]
     },
     {
@@ -8424,6 +9167,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(29)115.4-3.第二科.png"
       ]
     },
     {
@@ -8446,6 +9192,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "app_development"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(30)115.4-3.第二科.png"
       ]
     },
     {
@@ -8469,6 +9218,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(31)115.4-3.第二科.png"
       ]
     },
     {
@@ -8492,6 +9244,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(32)115.4-3.第二科.png"
       ]
     },
     {
@@ -8515,6 +9270,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(33)115.4-3.第二科.png"
       ]
     },
     {
@@ -8537,6 +9295,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(34)115.4-3.第二科.png"
       ]
     },
     {
@@ -8560,6 +9321,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "data_analysis_prediction"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(35)115.4-3.第二科.png"
       ]
     },
     {
@@ -8583,6 +9347,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(36)115.4-3.第二科.png"
       ]
     },
     {
@@ -8606,6 +9373,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(37)115.4-3.第二科.png"
       ]
     },
     {
@@ -8628,6 +9398,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "conversational_service"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(38)115.4-3.第二科.png"
       ]
     },
     {
@@ -8650,6 +9423,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(39)115.4-3.第二科.png"
       ]
     },
     {
@@ -8673,6 +9449,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "document_processing"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(40)115.4-3.第二科.png"
       ]
     },
     {
@@ -8696,6 +9475,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(41)115.4-3.第二科.png"
       ]
     },
     {
@@ -8719,6 +9501,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "workflow_automation",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(42)115.4-3.第二科.png"
       ]
     },
     {
@@ -8742,6 +9527,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "conversational_service",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(43)115.4-3.第二科.png"
       ]
     },
     {
@@ -8765,6 +9553,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "knowledge_qa",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(44)115.4-3.第二科.png"
       ]
     },
     {
@@ -8788,6 +9579,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "content_generation",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(45)115.4-3.第二科.png"
       ]
     },
     {
@@ -8811,6 +9605,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "multimodal",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(46)115.4-3.第二科.png"
       ]
     },
     {
@@ -8834,6 +9631,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "app_development",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(47)115.4-3.第二科.png"
       ]
     },
     {
@@ -8856,6 +9656,9 @@ window.QUESTION_BANK = {
       "scenario_reviewed": true,
       "scenario_tags": [
         "workflow_automation"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(48)115.4-3.第二科.png"
       ]
     },
     {
@@ -8879,6 +9682,9 @@ window.QUESTION_BANK = {
       "scenario_tags": [
         "data_analysis_prediction",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(49)115.4-3.第二科.png"
       ]
     },
     {
@@ -8903,6 +9709,9 @@ window.QUESTION_BANK = {
         "content_generation",
         "document_processing",
         "governance_risk"
+      ],
+      "explanation_images": [
+        "data/originals/詳解/115.4-3.第二科/(50)115.4-3.第二科.png"
       ]
     }
   ]

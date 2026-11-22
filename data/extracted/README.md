@@ -25,3 +25,11 @@ It also validates scenario category IDs and their reviewed question IDs before
 including the tags in `questions.js`. All 400 questions have been reviewed: 327
 have scenario tags and 73 are unclassified because no scenario label currently
 applies. The practice filter keeps these distinct from unreviewed questions.
+
+`explanations.json` indexes explanation images for the four 115.4-2 and 115.4-3
+exam subjects.
+The builder validates that each entry references a question in the bank and
+adds the image paths to that question. These paths open the original PNG files
+under `../originals/詳解/`; the original files are not modified or OCR-merged
+into text yet. Run `python src\build_explanation_index.py` before
+`python src\build_question_bank.py` when the explanation PNG set changes.

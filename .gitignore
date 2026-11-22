@@ -1,2 +1,6 @@
 __pycache__/
 *.py[cod]
+
+# 詳解與模板圖片僅供本機使用，不推送到公開 repo
+data/originals/詳解/
+data/originals/*.png
