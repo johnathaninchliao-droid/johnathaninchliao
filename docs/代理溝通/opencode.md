@@ -58,6 +58,48 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-26 21:17｜六題組 300 題文字確認全數完成
+
+- 使用者需求：完成 115.4-2／115.4-3 剩餘 140 題；做完直接 commit，不需再等核准；網站由 Copilot 負責
+- 結論／決定：七批子代理全數回報完成，六題組共 300 題寫入 `data/extracted/詳解.文字確認(opencode)/`；最終驗證 300 題 bad_key/bad_struct/bad_gemini/simp 全數為 0；115.4-1 100 題先前已 commit+push（`d4bfb48`），統計圖 29 檔已 commit+push（`1ffe454`）；本次剩餘 200 題與 `00_追認總結.md`、`00_寫作規範.md` 更新待 commit+push
+- 異動檔案：data/extracted/詳解.文字確認(opencode)/ 六題組 300 題 md、00_追認總結.md、00_寫作規範.md；docs/代理溝通/00_現況與需求.md、opencode.md、最新動態.md
+- 待辦／需其他代理支援：Copilot 處理 GitHub 答案區與網站部署（md 須人工覆核後轉結構化格式）；人工最終核准後方可放入 data/originals/；各題人工覆核注意項列於 00_追認總結.md
+
+### 2026-11-26 21:15｜115.4-3 第一科 6-25 文字確認完成與整批繁體自檢
+
+- 使用者需求：補齊 115.4-3 第一科第 6-25 題 OpenCode 文字確認與溯源 md；只新增自身生成工作區檔案，不覆寫既有 01-05、26-50，不碰 Antigravity、不 commit、不等待其他代理。
+- 結論／決定：20 題全部產出；官方答案 6D/7B/8D/9D/10B/11B/12A/13C/14B/15C/16C/17B/18B/19B/20C/21D/22B/23D/24B/25C 與前端、題目、搜尋推論、題庫對照四處一致；每題固定七節 + 查證來源表 + 限制聲明，Gemini 並列比較標為不適用；OpenCC s2tw 全文逐字自檢 0 異常（修正 10/12/16/18 題共 12 處 分布->分佈、了->解決改寫、只->僅改寫）；查證日期 2026-11-26。
+- 異動檔案：data/extracted/詳解.文字確認(opencode)/115.4-3.第一科/(06)~(25)115.4-3.第一科.文字確認.md（20 檔，僅新增）
+- 待辦／需其他代理支援：無；仍待人工最終核准，Antigravity 圖解與本產線平行獨立。
+
+### 2026-11-26 21:15｜115.4-2 第一科 32-50 文字確認完成
+
+- 使用者需求：為 115.4-2 第一科第 32–50 題共 19 題產出繁體中文文字確認 md；只寫 OpenCode 生成區、唯讀考卷、公開來源查證、先推論再對答案、逐題與整批 OpenCC s2tw 自查
+- 結論／決定：已完成 (32)–(50) 共 19 檔，官方答案依序 D/B/C/A/A/D/C/C/C/C/C/B/C/B/C/B/B/B/D/B；每題 2 個以上公開來源、Gemini 欄位皆為不適用；逐檔與整批 OpenCC s2tw 逐字自查全數 OK，零簡體字；Q35 如實註記官方 A 文字略絕對但四選項中最接近，查無更優解；websearch 當日配額耗盡，改用 webfetch 直接讀取公開來源；未上傳整題或圖檔，未修改 data/originals 與 Antigravity 工作區
+- 異動檔案：data/extracted/詳解.文字確認(opencode)/115.4-2.第一科/(32)–(50)115.4-2.第一科.文字確認.md 共 19 檔、docs/代理溝通/00_現況與需求.md
+- 待辦／需其他代理支援：人工最終核准前不得放入 data/originals；不 commit、不碰網頁、不修改 Antigravity 產出；Copilot 後續依核准結果處理索引與答案區
+
+### 2026-11-26 21:14｜考情統計圖 commit 與 push；115.4-2／115.4-3 補齐進度
+
+- 使用者需求：統計圖複製到生成區並可 commit；確認同檔名；Push 到 GitHub；網站由 Copilot 負責，OpenCode 不碰；做完直接 commit 不需再等核准
+- 結論／決定：29 檔統計圖以同檔名、同結構複製到 `data/extracted/考情資料整理/`，SHA256 全數一致，originals 未更動；commit `1ffe454`；已 push（`97021c0..1ffe454 main -> main`），連同 d4bfb48、fc79202 一併推送；目前 287 題機械驗證全通過（bad_key/bad_struct/bad_gemini/simp 皆為 0）
+- 異動檔案：data/extracted/考情資料整理/（29 檔，已 commit 並 push）；docs/代理溝通/00_現況與需求.md、opencode.md、最新動態.md
+- 待辦／需其他代理支援：115.4-3 第二科 13–25 由子代理補齐中，完成後跑最終驗證並 commit／push；Copilot 處理網站與 GitHub 答案區，OpenCode 不碰
+
+### 2026-11-26 21:11｜115.4-3 第一科 31-50 文字確認完成
+
+- 使用者需求：為 115.4-3 第一科第 31-50 題撰寫 OpenCode 文字確認 md（固定七節格式、公開來源溯源、繁體自檢），own inference 先行再對照官方答案
+- 結論／決定：已完成 (31)~(50) 共 20 檔文字確認；每題答案與考卷官方答案一致，查無分歧；每題 2 個以上公開來源查證（查核日 2026-11-26）；OpenCC s2tw 逐字自檢 0 簡體字；websearch 整合無結果，改用直接公開 URL 查證；Gemini 並列比較欄位標示不適用
+- 異動檔案：data/extracted/詳解.文字確認(opencode)/115.4-3.第一科/(31)~(50)115.4-3.第一科.文字確認.md（20 檔）
+- 待辦／需其他代理支援：人工最終核准前不得放入 data/originals；Antigravity 獨立圖解產線不等待本產線、未修改
+
+### 2026-11-26 20:43｜通知 Copilot：115.4-1 已 commit，接續完成 115.4-2／115.4-3
+
+- 使用者需求：commit 後 opencode 持續把剩下的都完成，並 commit 和通知 copilot；網頁的事情都由 copilot 決定
+- 結論／決定：115.4-1 兩科 100 題文字確認已 commit（d4bfb48，111 檔）；已確認 md 不是網頁答案區資料來源，commit 不會進答案區；盤點 originals：剩餘四題組 115.4-2 第一科／第二科、115.4-3 第一科／第二科，各 50 題共 200 題；四份考卷 PDF 皆在 data/originals/ 且可提取 50 題答案鍵（115.4-3 第一科 PDF 位於 歷屆考題/，不在 詳解/ 子資料夾）；已於 00_現況與需求.md 通知 Copilot：網頁答案區由 Copilot 決定，md 需人工覆核後轉成 answer_framework_data.js 的結構化格式才能上線；前端 answer_framework.js 有硬編碼第 21 題標籤需一併改為讀資料欄位；OpenCode 接續以平行子代理完成四題組 200 題，逐一 commit；全程只寫 data/extracted/，data/originals/ 唯讀未動
+- 異動檔案：docs/代理溝通/00_現況與需求.md、docs/代理溝通/opencode.md、docs/代理溝通/最新動態.md
+- 待辦／需其他代理支援：Copilot 恢復後由使用者決定何時把文字內容轉結構化格式放進答案區；OpenCode 不碰網頁程式；data/originals/ 唯讀；人工最終核准門檻維持
+
 ### 2026-11-26 20:25｜依使用者澄清修正 Gemini 角色與 originals 放入原則
 
 - 使用者需求：origials 不能動；只要 originals 裡面的都可以做完，不用筆記本 Gemini 回覆；筆記本 Gemini 不是代理，只會幫助筆記本內的事務；要放進 originals 的東西都要人工覆核後才放入
