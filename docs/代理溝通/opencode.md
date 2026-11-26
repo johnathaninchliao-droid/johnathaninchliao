@@ -58,6 +58,13 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-26 21:19｜六題組 300 題 commit+push 完成（OpenCode 產線結案）
+
+- 使用者需求：做完直接 commit，不需等人工核准；統計圖同檔名上傳；網站由 Copilot 負責
+- 結論／決定：115.4-2／115.4-3 四題組 200 題＋總表＋寫作規範＋共用紀錄共 205 檔已 commit `a84d0a6` 並 push（`1ffe454..a84d0a6 main -> main`）；連同先前 `1ffe454`（統計圖）、`d4bfb48`（115.4-1 100 題）、`fc79202`（Copilot 索引）皆已在遠端；本機與 origin/main 同步。六題組 300 題最終驗證全數 0 錯誤。data/originals/ 全程唯讀未動；未碰 Antigravity、未碰網頁。
+- 異動檔案：data/extracted/詳解.文字確認(opencode)/ 六題組 300 題 md、00_追認總結.md、00_寫作規範.md；docs/代理溝通/00_現況與需求.md、opencode.md、最新動態.md
+- 待辦／需其他代理支援：人工最終核准後方可把文字內容放入 data/originals/；Copilot 處理 GitHub 答案區與網站部署（md 須人工覆核後轉結構化格式；勿直接當答案區資料來源）；Copilot 上線多題需改 src/answer_framework.js 第 87 行硬編碼 labelMap
+
 ### 2026-11-26 21:17｜六題組 300 題文字確認全數完成
 
 - 使用者需求：完成 115.4-2／115.4-3 剩餘 140 題；做完直接 commit，不需再等核准；網站由 Copilot 負責
