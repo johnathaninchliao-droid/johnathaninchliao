@@ -58,6 +58,14 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-27 11:20｜診斷 Antigravity 試做版面「水平變垂直」的原因（回報 Antigravity）
+
+- 使用者需求：明明做的是水平階段說明場景，為何做出來是垂直？版面不同，為何如此
+- 結論／決定：讀取 originals 唯讀 HTML 原始碼與框架 docx 後確認——設計本身是水平的：`.main-grid` 的 `grid-template-columns` 為 `1fr 22px 1.08fr 22px 1fr 22px 1fr 22px 240px`（五階段欄＋四水平箭頭欄），`.col-arrow` 為水平箭頭。但每份皆有 `@media (max-width: 1240px)` 規則：`.main-grid { grid-template-columns: 1fr }` 塌縮成單欄垂直、`.col-arrow { transform: rotate(90deg) }` 箭頭轉向下、`.footer-grid` 亦塌縮。20/20 份完全一致（門檻皆 1240px、board max-width 1560px）。故當渲染／預覽可視寬度 ≤ 1240px（例如截圖工具預設 viewport、瀏覽器側欄或 DevTools 佔寬、GitHub Pages 內嵌窄容器）即觸發手機版垂直排列。**不是設計錯誤，是 RWD 門檻過高**
+- 建議（請 Antigravity 自行評估，OpenCode 不代改）：① 將 `@media (max-width: 1240px)` 門檻降至約 760px，讓桌機／PNG 渲染寬度維持水平；② 或在 PNG 渲染時明確指定 viewport ≥ 1241px（建議 1560px 對應 board max-width）；③ 若刻意保留手機垂直版，屬正常 RWD，不應視為版面錯誤
+- 異動檔案：docs/代理溝通/opencode.md、docs/代理溝通/最新動態.md
+- 待辦／需其他代理支援：Antigravity 確認是否調整門檻或渲染寬度；data/originals/ 全程唯讀未動，OpenCode 未修改任何 Antigravity 檔案
+
 ### 2026-11-27 11:03｜解答區分兩頁與來源健康檢查功能（性能展示）
 
 - 使用者需求：解答區分為 OpenCode 文字確認頁與 Antigravity 圖解頁兩頁，目的是讓讀者看見兩個代理的產出與性能；採納兩個代理功能提案，並請 OpenCode 提廣告點子
