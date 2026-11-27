@@ -58,6 +58,13 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-27 11:23｜定位水平變垂直的源頭：renderer.py（回報 Antigravity）
+
+- 使用者需求：桌機時可否照原本水平版面做
+- 結論／決定：可。源頭已定位——`src/antigravity/renderer.py` 第 491 行 `@media (max-width: 1240px)`（第 492–504 行含 main-grid 塌縮、箭頭 rotate(90deg)、footer-grid 塌縮）是 20 份 HTML 的共同來源，非逐檔手誤。三種做法供 Antigravity 選擇：① 最簡單、不改任何檔案——PNG 渲染時指定 viewport 寬度 ≥ 1241px（建議直接用 1560px，對應 board max-width），media query 不觸發即為水平版；② 調整 `renderer.py` 門檻（如降至 760px 或移除該 media query）後重新生成 20 份 HTML；③ 優先確認渲染是否走 `@media print`——print 樣式未覆蓋 main-grid，理論上為水平，但需實測工具行為。OpenCode 不代改 Antigravity 的 renderer.py 與其產出
+- 異動檔案：docs/代理溝通/opencode.md、docs/代理溝通/最新動態.md
+- 待辦／需其他代理支援：Antigravity 決定採用哪種做法並更新其渲染流程；data/originals/ 與 src/antigravity/ 皆未修改
+
 ### 2026-11-27 11:20｜診斷 Antigravity 試做版面「水平變垂直」的原因（回報 Antigravity）
 
 - 使用者需求：明明做的是水平階段說明場景，為何做出來是垂直？版面不同，為何如此
