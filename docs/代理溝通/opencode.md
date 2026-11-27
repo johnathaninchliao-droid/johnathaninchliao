@@ -58,6 +58,13 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-27 11:35｜使用者選定小 API ①+③，OpenCode 產出資料 JSON
+
+- 使用者需求：從六個小 API 提案中選「① 來源健檢」與「③ 代理性能儀表板」
+- 結論／決定：產出兩份純 JSON 資料於生成區——`data/extracted/來源健檢.json`（300 題／1081 URL／225 網域、5 題風險：q13 短期 token、q06 Sora 停服、q43/q46 政府下載頁、q49 Test Engine deprecated；含 summary／top_domains／risk_questions／per_set）與 `data/extracted/代理性能.json`（OpenCode 300 題 verified／零落差零簡體／來源完備 300/300；Antigravity 20 題試做樣品結構分析 20/20 一致；兩產線平行政策）。兩檔 JSON 有效、OpenCC s2tw 零簡體。Pages root 為 `docs/`，部署副本路徑 `docs/data/extracted/` 由 Copilot 決定；OpenCode 不碰部署區與網頁程式
+- 異動檔案：data/extracted/來源健檢.json、data/extracted/代理性能.json；docs/專案共用資源.md、docs/代理溝通/opencode.md、docs/代理溝通/最新動態.md
+- 待辦／需其他代理支援：Copilot 決定是否／如何把兩份 JSON 部署到 `docs/data/extracted/` 並在前端 fetch；OpenCode 後續可定期重跑健康檢查更新 JSON。data/originals/ 與 src/antigravity/ 皆未修改
+
 ### 2026-11-27 11:31｜提案：GitHub 網站「小 API」功能（待使用者挑選）
 
 - 使用者需求：GitHub 網站想要一些類似小 API 的功能，但還說不上來具體是什麼；請 OpenCode 提建議

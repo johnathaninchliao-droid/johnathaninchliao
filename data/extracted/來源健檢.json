@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "name": "來源健檢 API",
+    "version": "1.0",
+    "generated": "2026-11-27",
+    "generator": "OpenCode 來源健康檢查",
+    "note": "純JSON中繼資料，不含整題或版權圖檔；查核日期反映掃描當下狀態"
+  },
+  "summary": {
+    "questions": 300,
+    "total_urls": 1081,
+    "distinct_domains": 225,
+    "questions_with_sources": 300,
+    "questions_with_check_date": 300,
+    "questions_with_risks": 5
+  },
+  "top_domains": [
+    {
+      "domain": "en.wikipedia.org",
+      "count": 152
+    },
+    {
+      "domain": "arxiv.org",
+      "count": 144
+    },
+    {
+      "domain": "www.ibm.com",
+      "count": 80
+    },
+    {
+      "domain": "scikit-learn.org",
+      "count": 50
+    },
+    {
+      "domain": "learn.microsoft.com",
+      "count": 35
+    },
+    {
+      "domain": "aws.amazon.com",
+      "count": 29
+    },
+    {
+      "domain": "huggingface.co",
+      "count": 20
+    },
+    {
+      "domain": "www.nist.gov",
+      "count": 19
+    },
+    {
+      "domain": "www.anthropic.com",
+      "count": 18
+    },
+    {
+      "domain": "genai.owasp.org",
+      "count": 18
+    },
+    {
+      "domain": "www.microsoft.com",
+      "count": 17
+    },
+    {
+      "domain": "openai.com",
+      "count": 16
+    }
+  ],
+  "risk_questions": [
+    {
+      "key": "115.4-1.第一科#q13",
+      "risks": [
+        "政府／公會下載頁含短期 token"
+      ],
+      "source_count": 2
+    },
+    {
+      "key": "115.4-1.第二科#q06",
+      "risks": [
+        "Sora 產品已停服"
+      ],
+      "source_count": 3
+    },
+    {
+      "key": "115.4-1.第二科#q43",
+      "risks": [
+        "政府／公會下載頁含短期 token"
+      ],
+      "source_count": 6
+    },
+    {
+      "key": "115.4-1.第二科#q46",
+      "risks": [
+        "政府／公會下載頁含短期 token"
+      ],
+      "source_count": 6
+    },
+    {
+      "key": "115.4-1.第二科#q49",
+      "risks": [
+        "Test Engine 已 deprecated"
+      ],
+      "source_count": 6
+    }
+  ],
+  "per_set": {
+    "115.4-1.第一科": {
+      "questions": 50,
+      "total_urls": 188
+    },
+    "115.4-1.第二科": {
+      "questions": 50,
+      "total_urls": 227
+    },
+    "115.4-2.第一科": {
+      "questions": 50,
+      "total_urls": 146
+    },
+    "115.4-2.第二科": {
+      "questions": 50,
+      "total_urls": 186
+    },
+    "115.4-3.第一科": {
+      "questions": 50,
+      "total_urls": 140
+    },
+    "115.4-3.第二科": {
+      "questions": 50,
+      "total_urls": 194
+    }
+  }
+}

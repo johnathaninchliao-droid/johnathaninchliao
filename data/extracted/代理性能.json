@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "name": "代理性能儀表板 API",
+    "version": "1.0",
+    "generated": "2026-11-27",
+    "note": "兩條產線平行獨立；數字來自 OpenCode 文字掃描與 Antigravity 試做樣品(31-50)結構分析"
+  },
+  "opencode": {
+    "role": "詳解.文字確認（再次確認）",
+    "questions_verified": 300,
+    "question_sets": 6,
+    "source_urls": 1081,
+    "distinct_domains": 225,
+    "answer_mismatch": 0,
+    "section_errors": 0,
+    "gemini_column_errors": 0,
+    "simplified_chinese_chars": 0,
+    "completeness": {
+      "with_sources": "300/300",
+      "with_check_date": "300/300"
+    },
+    "health_check": {
+      "risk_questions": 5,
+      "verified_official": 2
+    }
+  },
+  "antigravity": {
+    "role": "詳解.圖解（讓讀者理解情境）",
+    "scope": "115.4-1.第二科 31-50 試做樣品（已分析 20 題）",
+    "html_files_analyzed": 20,
+    "layout_structure_ok": 20,
+    "answer_match_with_opencode": 20,
+    "required_classes_ratio": "11/11",
+    "sources_per_question": "2-3",
+    "layout": "桌機≥1241px水平、手機≤1240px垂直（RWD 設計意圖）",
+    "note": "OpenCode 僅做文字／結構分析，PNG 視覺驗證由 Antigravity 自行負責"
+  },
+  "parallel_policy": "兩產線互不等待交接；來源選擇部分重疊、其餘互補，無矛盾；差異如實並行記錄"
+}
