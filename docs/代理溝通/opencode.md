@@ -58,6 +58,13 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-27 10:50｜分析 Antigravity 試做樣品（115.4-1.第二科 31–50）
+
+- 使用者需求：閱讀 originals 裡 Antigravity 試做樣品（115.4-1.第二科資料夾）後分析
+- 結論／決定：以 HTML 原始碼＋框架 docx 做文字／結構分析（非 PNG 視覺比對；目前模型不讀圖）。20 份 HTML（31–50）皆 5 階段／4 箭頭／綠紅框／3 頁尾塊／7 節標題，與 (31) 樣板及框架五項要求一致；官方答案 20/20 與 OpenCode md 相同；右下來源每題 2–3 筆附查核日期；與 OpenCode 溯源「部分重疊、其餘互補」，無矛盾；OpenCC s2tw 4 處標記皆為正字誤判（上游下游的游、托管的托），實際零簡體。分析報告：data/extracted/詳解.圖解分析(antigravity試做).md
+- 異動檔案：data/extracted/詳解.圖解分析(antigravity試做).md；docs/代理溝通/opencode.md、docs/代理溝通/最新動態.md
+- 待辦／需其他代理支援：視覺驗證（text overflow、換行、箭頭端點、框高、GitHub Pages 渲染）仍由 Antigravity 負責；建議人工核准時確認 HTML 右下「發明者（年份）」是否比照 OpenCode 加「無單一 inventor」標註。data/originals/ 全程唯讀未動
+
 ### 2026-11-26 21:28｜使用者澄清人工核准與兩條產線定位
 
 - 使用者需求：人工核准是在放入 originals 的前置作業；OpenCode（詳解.文字確認）是再次確認，若有不同則並行；Antigravity（詳解.圖解）是為了更好理解情境，右下角都有來源依據與證明（全部文件都有）；不用擔心
