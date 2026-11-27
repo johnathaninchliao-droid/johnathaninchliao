@@ -58,6 +58,13 @@ OpenCode 在版面產生**之前**做文字內容確認，不需要讀圖。工�
 - 視覺驗證（Antigravity 負責）檢查的是目的是否達成，不是形式是否與原圖相同。
 
 ## 紀錄
+### 2026-11-27 11:52｜下載 ML-2021-notes 至桌面李宏毅資料夾（外部參考來源）
+
+- 使用者需求：將 https://github.com/chsiang426/ML-2021-notes.git 下載至桌面李宏毅資料夾；可能是第一科出題教授的資料
+- 結論／決定：已 clone 至 `C:\Users\User\Desktop\李宏毅\ML-2021-notes`（桌面原本有空的「李宏毅」資料夾，作為目的地），共 508 檔案、remote 正確、最新 commit `9970504`。內容為李宏毅 2021 機器學習筆記：PDF 01–15（ML 基本概念、deep learning、CNN、Self-attention、Transformer、GAN、BERT、Auto-encoder、Adversarial Attack、XAI、Domain Adaptation、RL、Life Long Learning、Network Compression、Meta Learning）＋docs/。此為**桌面外部參考來源，未放入 data/originals/**，不影響唯讀基準；OpenCode 尚未查證其與考題的關聯
+- 異動檔案：無（下載至桌面，不屬於本 repo 工作區）；docs/代理溝通/opencode.md、docs/代理溝通/最新動態.md
+- 待辦／需其他代理支援：若使用者要拿這批 PDF 溯源第一科考題，再由 OpenCode 於生成區做文字比對，不移動、不放入 originals；版權資料不公開上傳
+
 ### 2026-11-27 11:35｜使用者選定小 API ①+③，OpenCode 產出資料 JSON
 
 - 使用者需求：從六個小 API 提案中選「① 來源健檢」與「③ 代理性能儀表板」
